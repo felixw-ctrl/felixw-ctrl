@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Felix 👋
 
-<!--
-**felixw-ctrl/felixw-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business graduate who builds AI automations that save teams time.
 
-Here are some ideas to get you started:
+Open to opportunities in **strategy, operations, growth and AI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+**[AI Document & Meeting Digest](https://github.com/felixw-ctrl/n8n-ai-meeting-digest)**
+An n8n workflow that turns meeting recordings, PDFs and notes into structured digests with decisions, to-dos and open questions. Built with least-privilege Google API access.
+
+*More projects coming soon.*
+
+### Tools I work with
+
+n8n · OpenAI API · Claude · Google Workspace APIs · Docker · JavaScript basics
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/felixwierick/)
