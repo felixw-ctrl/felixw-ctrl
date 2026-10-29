@@ -7,7 +7,7 @@ Open to opportunities in **strategy, operations, growth and AI**.
 ### Projects
 
 **[AI Lead & Request Triage](https://github.com/felixw-ctrl/n8n-ai-lead-triage)**
-Classifies inbound requests with Claude and routes them to the CRM, the right Slack channel and a log. Unclear cases go to human review. Tested on 25 cases: accuracy 96% → 100% after one prompt improvement.
+Classifies inbound requests with Claude and routes them to the CRM, the right Slack channel and a log. Unclear cases go to human review. 97.9% correct on 97 unseen test messages.
 
 **[AI Document & Meeting Digest](https://github.com/felixw-ctrl/n8n-ai-meeting-digest)**
 Turns meeting recordings, PDFs and notes into structured digests with decisions, to-dos and open questions. Built with least-privilege Google API access.
